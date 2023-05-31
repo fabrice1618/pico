@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T12:03:34.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jXa4NVddI_o_klZugsXf" version="21.3.3" type="device">
+  <diagram name="Page-1" id="bAn1-sho_LhMiV9gDNNJ">
+    <mxGraphModel dx="896" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-1" value="Connexion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-4" value="index.php" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TjzR_-C0COBDaRBHiFgZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="sourcePoint" />
+            <mxPoint x="414" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-6" value="Inscription" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjzR_-C0COBDaRBHiFgZ-1" target="TjzR_-C0COBDaRBHiFgZ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="sourcePoint" />
+            <mxPoint x="300" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-8" value="registre.php" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-9" value="dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-10" value="dashboard.php" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-11" value="Mot de passe oublié" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-12" value="lost_pwd.php" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TjzR_-C0COBDaRBHiFgZ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjzR_-C0COBDaRBHiFgZ-1" target="TjzR_-C0COBDaRBHiFgZ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="140" as="sourcePoint" />
+            <mxPoint x="424" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
